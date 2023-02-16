@@ -16,7 +16,7 @@ func generateSlice(size int) []int {
 	return slice
 }
 
-func bubblesort(items []int) {
+func bubbleSort(items []int) {
 	var (
 		n      = len(items)
 		sorted = false
@@ -39,6 +39,6 @@ func bubblesort(items []int) {
 func main() {
 	slice := generateSlice(20)
 	fmt.Println("\n---- Unsorted ---- \n\n", slice)
-	bubblesort(slice)
+	bubbleSort(slice)
 	fmt.Println("\n---- Sorted ---- \n\n", slice)
 }
