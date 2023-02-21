@@ -29,3 +29,7 @@ This is a Data Structure and Algorithms in `Go`
 | [Tower of Hanoi Algorithm](./tower-of-hanoi)               |
 | [Huffman Coding Algorithm](./huffman-coding)               |
 | [Drawing a Cuboid](./draw-cuboid)                          |
+
+### TODO
+
+[ ] Add a gif that show each sorting
