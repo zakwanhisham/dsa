@@ -1,8 +1,12 @@
-# dsa
+# dsa-Data Structure and Algortihms
+
+---
 
 This is a Data Structure and Algorithms in `Go`
 
 ## TABLE OF CONTENT
+
+---
 
 | ALGORITHMS                                                 |
 | ---------------------------------------------------------- |
@@ -31,5 +35,7 @@ This is a Data Structure and Algorithms in `Go`
 | [Drawing a Cuboid](./draw-cuboid)                          |
 
 ### TODO
+
+---
 
 [ ] Add a gif that show each sorting
