@@ -1,4 +1,4 @@
-# dsa-Data Structure and Algortihms
+# dsa-Data Structure and Algorithms
 
 ---
 
