@@ -12,8 +12,8 @@ type Key interface {
 
 type Node struct {
 	Data    Key
-	Balance int
 	Link    [2]*Node
+	Balance int
 }
 
 func opp(dir int) int {
